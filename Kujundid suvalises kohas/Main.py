@@ -21,4 +21,4 @@ for i in range(1, 10):
     y = random.randint(0, 460)  # Genereerime juhusliku y-koordinaadi
     pygame.draw.rect(screen, red, [x, y, 20, 20])  # Joonistame ruudu ekraanile
 
-    pygame.display.flip()
+    pygame.display.flip() # Värskendame akent
