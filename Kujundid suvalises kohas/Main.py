@@ -1,3 +1,4 @@
+# Kristjan Moora
 import pygame
 import random 
 
